@@ -1,3 +1,7 @@
+# my hidden files
+android/app/google-services.json
+android/key.properties
+
 # Miscellaneous
 *.class
 *.log
