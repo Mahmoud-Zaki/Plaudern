@@ -2,8 +2,8 @@
 
 __Plaudern is a Chat App.__
 
-## 🚀 Technology stack
-* Flutter Framework && Dart Language
+## ⚠️ Technologies
+* Flutter Framework & Dart Language
 * Firebase Authentication
 * Cloud Firestore
 * Firebase Storage
