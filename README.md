@@ -1,18 +1,28 @@
 # Plaudern
 
-__description here.__
+__Plaudern is a Chat App.__
 
-## 🚀 Technology stack
-* element 1
-* element 2
-* element 3 and so forth
+## ⚠️ Technologies
+* Flutter Framework & Dart Language
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Storage
+* Cached Network Image Plugin
+* Streams
+* Shared Preferences Plugin
+* Agora_Rtc
 
 ## ⭐ Features
-* element 1
-* element 2
-* element 3 and so forth
+* Sign up system with name, email and password.
+* Login system with email and password.
+* Ability to contact your friends by sending messages, pictures and video call.
+* Ability to explore new friends.
+* Ability to add stories for 24 hours only.
+* Ability to know if users active/online now or not.
+* Ability to know if users read your mesages or not.
+* Ability to change your name and photo.
 
 ## 📷 Screenshots
 | . | . |
 | --- | --- |
-![splash_screen](/screenshots/splash_screen.png) | ![login](/screenshots/login.png)
+![splash_screen](/screenshots/splash_screen.png) | ![login](/screenshots/login.png) | ![signup](/screenshots/signup.png) | ![inbox](/screenshots/inbox.png) | ![story](/screenshots/story.png) | ![explore](/screenshots/explore.png) | ![setting](/screenshots/setting.png) 
