@@ -2,7 +2,7 @@
 
 __Plaudern is a Chat App.__
 
-## ⚠️ Technologies
+## 🚀 Technologies
 * Flutter Framework & Dart Language
 * Firebase Authentication
 * Cloud Firestore
@@ -22,7 +22,7 @@ __Plaudern is a Chat App.__
 * Ability to know if users read your mesages or not.
 * Ability to change your name and photo.
 
-## Play Store Link
+## 🔗 Play Store Link
 [Plaudern](https://play.google.com/store/apps/details?id=com.zaki.plaudern)
 
 ## 📷 Screenshots
