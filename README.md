@@ -23,7 +23,7 @@ __Plaudern is a Chat App.__
 * Ability to change your name and photo.
 
 ## 🔗 Play Store Link
-[       Plaudern](https://play.google.com/store/apps/details?id=com.zaki.plaudern)
+                    [Plaudern](https://play.google.com/store/apps/details?id=com.zaki.plaudern)
 
 ## 📷 Screenshots
 | . | . |
