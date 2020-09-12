@@ -31,4 +31,4 @@ __Plaudern is a Chat App.__
 ![splash_screen](/screenshots/splash_screen.png) | ![login](/screenshots/login.png)
 ![signup](/screenshots/signup.png) | ![inbox](/screenshots/inbox.png)
 ![story](/screenshots/story.png) | ![explore](/screenshots/explore.png)
-![setting](/screenshots/setting.png) | ![calling](/screenshots/calling.png)
+![calling](/screenshots/calling.png) | ![setting](/screenshots/setting.png)
